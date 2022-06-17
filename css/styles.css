@@ -14,3 +14,6 @@ table:hover{
   background-color: white;
   font-size: 105%;
 }
+.date{
+  text-align: right;
+}
