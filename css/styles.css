@@ -1,0 +1,16 @@
+body {
+  background-color: #DBDFFD;
+}
+hr {
+  border: 1px solid black;
+}
+h1{
+  color: #242F9B;
+}
+h3{
+  color: #242F9B;
+}
+table:hover{
+  background-color: white;
+  font-size: 105%;
+}
